@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queueWarray", "queueWarray\queueWarray.vcxproj", "{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Debug|x64.ActiveCfg = Debug|x64
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Debug|x64.Build.0 = Debug|x64
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Debug|x86.Build.0 = Debug|Win32
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Release|x64.ActiveCfg = Release|x64
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Release|x64.Build.0 = Release|x64
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Release|x86.ActiveCfg = Release|Win32
+		{E2B1A6DA-9CCC-40EA-9CB2-1B816E9673F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7EFB8B-93B0-4539-B5DF-2BF110F5EEC8}
+	EndGlobalSection
+EndGlobal
